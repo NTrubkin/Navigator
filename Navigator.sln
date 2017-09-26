@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigator.Plugins", "Navigator.Plugins.csproj", "{2CBC70A5-9A38-03E4-86A7-C2799C72CD05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigator", "Navigator.csproj", "{1AF52C97-192A-9B1A-C3CF-B7D88C65C950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBC70A5-9A38-03E4-86A7-C2799C72CD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBC70A5-9A38-03E4-86A7-C2799C72CD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBC70A5-9A38-03E4-86A7-C2799C72CD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBC70A5-9A38-03E4-86A7-C2799C72CD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF52C97-192A-9B1A-C3CF-B7D88C65C950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF52C97-192A-9B1A-C3CF-B7D88C65C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF52C97-192A-9B1A-C3CF-B7D88C65C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF52C97-192A-9B1A-C3CF-B7D88C65C950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
